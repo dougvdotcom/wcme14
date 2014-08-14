@@ -8,7 +8,7 @@ https://www.dougv.com | @dougvdotcom
 
 Slides are available on Google Drive: http://dougv.us/pt
 
-Companion blog post: http://dougv.us/pv
+Companion blog post: http://dougv.us/px
 
 Summary
 =====
