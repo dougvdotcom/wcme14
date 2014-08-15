@@ -15,7 +15,7 @@ function my_shortcode_plugin_callback($atts, $content = null) {
 			$msg = "Copyright &copy; " . date('Y') . " All rights reserved.";
 			break;
 		case "2":
-			$msg = "Like this post? Consider making a Paypal donation.";
+			$msg = 'Visit our sister site, <a href="http://www.example.com">Example Website</a>.';
 			break;
 		default:
 			$msg = '"Good questions outrank easy answers." &mdash; Paul Samuelson';
