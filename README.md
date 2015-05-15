@@ -1,7 +1,7 @@
 wcme14
 ======
 
-Code from presentation "Write Your First WordPress Plugin" at WordCamp Maine 2014, Aug 16, 2014 
+Code from presentation "Write Your First WordPress Plugin" at WordCamp Maine 2025, May 15, 2015 and Wordcamp Maine 2014, Aug 16, 2014 
 
 Presented by Doug Vanderweide
 https://www.dougv.com | @dougvdotcom
