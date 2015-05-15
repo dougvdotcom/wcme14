@@ -9,10 +9,10 @@
 * License: GPL2
 */
 
-function my_shortcode_plugin_callback($atts, $content = null) {
-	switch($atts['id']) {
+function my_shortcode_plugin_callback( $atts, $content = null ) {
+	switch( $atts['id'] ) {
 		case "1":
-			$msg = "Copyright &copy; " . date('Y') . " All rights reserved.";
+			$msg = "Copyright &copy; " . date( 'Y' ) . " All rights reserved.";
 			break;
 		case "2":
 			$msg = 'Visit our sister site, <a href="http://www.example.com">Example Website</a>.';
@@ -24,5 +24,5 @@ function my_shortcode_plugin_callback($atts, $content = null) {
 	return $msg;
 }
 
-add_shortcode('myshortcode', 'my_shortcode_plugin_callback');
+add_shortcode( 'myshortcode', 'my_shortcode_plugin_callback' );
 ?>
